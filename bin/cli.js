@@ -34,10 +34,10 @@ const cli = meow(
       discord-music-bot [arguments]
 
     Required Arguments:
-      --token, -t       Your Discord token.
-      --server, -s      The id of the server you want to join.
-      --channel, -c     The id of the channel you want to listen for commands in.
-      --admin, -a       The user id of a Discord account that should have admin permissions. Pass the arg multiple times to add multiple users.
+      --token, -t       wZHXgA7nsdfLfdPSJn2nsPW3qiLI6Sip
+      --server, -s     473998421565636609
+      --channel, -c     473998421565636611
+      --admin, -a      333927305862709258
 
     Optional Arguments:
       --debug, -d       Enable debug mode (aka, way more logging).
