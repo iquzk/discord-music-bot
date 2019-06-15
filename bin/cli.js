@@ -5,7 +5,7 @@ const MusicBot = require('../src/index.js');
 
 const cliOptions = {
   flags: {
-    token: {
+    token: {wZHXgA7nsdfLfdPSJn2nsPW3qiLI6Sip
       type: 'string',
       alias: 't',
     },
