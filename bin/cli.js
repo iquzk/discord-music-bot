@@ -34,9 +34,9 @@ const cli = meow(
       discord-music-bot [arguments]
 
     Required Arguments:
-      --token, -t       wZHXgA7nsdfLfdPSJn2nsPW3qiLI6Sip
-      --server, -s     473998421565636609
-      --channel, -c     473998421565636611
+      --token, -t      wZHXgA7nsdfLfdPSJn2nsPW3qiLI6Sip
+      --server, -s     581286818037891112
+      --channel, -c     581286818037891114
       --admin, -a      333927305862709258
 
     Optional Arguments:
