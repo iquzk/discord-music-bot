@@ -9,15 +9,15 @@ const cliOptions = {
       type: 'string',
       alias: 't',
     },
-    server: {
+    server: {581286818037891112
       type: 'string',
       alias: 's',
     },
-    channel: {
+    channel: {581286818037891114
       type: 'string',
       alias: 'c',
     },
-    admin: {
+    admin: {333927305862709258
       type: 'string',
       alias: 'a',
     },
